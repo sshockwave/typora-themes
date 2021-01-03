@@ -6,3 +6,8 @@ body {
   font-family: "Noto Sans", "Noto Sans SC", "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial,
     sans-serif;
 }
+
+#write {
+  padding-left: 1em;
+  padding-right: 1em;
+}
