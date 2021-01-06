@@ -11,3 +11,16 @@ body {
   padding-left: 1em;
   padding-right: 1em;
 }
+
+p {
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+
+#write > p::before {
+  content: "¶";
+  color: var(--text-color3);
+  position: absolute;
+  left: -1em;
+}
+
